@@ -1,4 +1,3 @@
-# AmigoSecreto
 # 🎁 Amigo Secreto
 
 Este é um projeto simples de um sorteador de **Amigo Secreto**, onde os usuários podem adicionar nomes à lista e realizar um sorteio aleatório entre os participantes.
